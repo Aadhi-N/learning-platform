@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://i.imgur.com/oFzxyWv.png",
+        "title": "French Revolution (part 1)",
+        "progress_value": 40,
+        "lessons": 6,
+        "duration": "1h 15m"
+      },
+      {
+        "id": 2,
+        "image": "https://i.imgur.com/ozKQ9Qr.png",
+        "title": "The Roman Empire",
+        "progress_value": 23,
+        "lessons": 7,
+        "duration": "1h 23m"
+      }
+    ]
+  }
+  

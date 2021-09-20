@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://i.imgur.com/ozKQ9Qr.png",
+        "title": "Beginnings - 600 BCE"
+      },
+      {
+        "id": 2,
+        "image": "https://i.imgur.com/8sPVOsR.png",
+        "title": "Second Wave Civilizations - 600 BCE to 600 CE"
+      },
+      {
+        "id": 3,
+        "image": "https://i.imgur.com/oFzxyWv.png",
+        "title": "Regional and interregional interactions - 600 - 1450"
+      },
+      {
+        "id": 4,
+        "image": "https://i.imgur.com/Euzm8JT.png",
+        "title": "Renaissance and Reformation - 1450 to 1750"
+      },
+      {
+        "id": 5,
+        "image": "https://i.imgur.com/XpBTJQp.png",
+        "title": "Enlightenment and Revolution - 1750 to 1900"
+      },
+      {
+        "id": 6,
+        "image": "https://i.imgur.com/oFzxyWv.png",
+        "title": "The 20th century"
+      }
+    ]
+  }
+  

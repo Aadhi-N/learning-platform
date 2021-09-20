@@ -1,0 +1,84 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "image": "https://i.imgur.com/ozKQ9Qr.png",
+        "title": "French Revolution (part 1)",
+        "description": "The French Revolution was a period of major social upheaval that began in 1787 and ended in 1799. It sought to completely change the relationship between the rulers and those they governed and to redefine the nature of political power.",
+        "lessons": 18,
+        "duration": "3h 2m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 2,
+        "image": "https://i.imgur.com/8sPVOsR.png",
+        "title": "Birth of the US Constitution",
+        "description": "The document was written at the 1787 Philadelphia Convention and was ratified through a series of state conventions held in 1787 and 1788.",
+        "lessons": 8,
+        "duration": "2h 23m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 3,
+        "image": "https://i.imgur.com/oFzxyWv.png",
+        "title": "The Cold War",
+        "description": "Cold War, the open yet restricted rivalry that developed after World War II between the United States and the Soviet Union and their respective allies.",
+        "lessons": 11,
+        "duration": "58m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 4,
+        "image": "https://i.imgur.com/Euzm8JT.png",
+        "title": "Empires in India",
+        "description": "Before the Mauryan Empire, the Indian subcontinent was fragmented into hundreds of kingdoms that were ruled by powerful regional chiefs who engaged in warfare using their small armies.",
+        "lessons": 6,
+        "duration": "38m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 5,
+        "image": "https://i.imgur.com/XpBTJQp.png",
+        "title": "Latin American Wars of Independence",
+        "description": "The Latin American Wars of Independence were the revolutions that took place during the late 18th and early 19th centuries and resulted in the creation of a number of independent countries in Latin America.",
+        "lessons": 12,
+        "duration": "1h 12m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 6,
+        "image": "https://i.imgur.com/oFzxyWv.png",
+        "title": "Transregional Trade: the Silk Road",
+        "description": "Silk Road, also called Silk Route, ancient trade route, linking China with the West, that carried goods and ideas between the two great civilizations of Rome and China. ",
+        "lessons": 9,
+        "duration": "1h 21m",
+        "trending": true,
+        "recommended": false
+      },
+      {
+        "id": 7,
+        "image": "https://i.imgur.com/ozKQ9Qr.png",
+        "title": "The Russian Empire",
+        "description": "The Russian Empire, commonly referred to as Imperial Russia, was a historical empire that extended across Eurasia and North America from 1721, following the end of the Great Northern War, until the Republic was proclaimed by the Provisional Government that took power after the February Revolution of 1917.",
+        "lessons": 13,
+        "duration": "1h 47m",
+        "trending": false,
+        "recommended": true
+      },
+      {
+        "id": 8,
+        "image": "https://i.imgur.com/XpBTJQp.png",
+        "title": "The Roman Empire",
+        "description": "The Roman Empire was founded when Augustus Caesar proclaimed himself the first emperor of Rome in 31BC and came to an end with the fall of Constantinople in 1453CE.",
+        "lessons": 12,
+        "duration": "1h 29m",
+        "trending": true,
+        "recommended": false
+      }
+    ]
+  }
