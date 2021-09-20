@@ -14,6 +14,7 @@ Link to site: [https://adis-learning-platform.herokuapp.com/](https://adis-learn
     - JSON mock data for building REST APIs
 
     Hosted on Heroku.
+    Static assets author: [Anna Yashina](https://dribbble.com/chebarsu)
 
 
 #### Run project locally:
@@ -36,6 +37,11 @@ open http://localhost:3000
 
 
 ### Notes/Limitations
+
+**Project still in progress**
+- implement "likes" and "notifications" feature
+- add components to course detail pages
+- fix navbar drop down css
 
 **Data fetching strategy:** I "fetched" data from the API from the client side instead of server side because something like a dashboard contains data assigned to each unique user, and it's not usually pre-rendered due to its dynamic nature. This strategy first renders the page, and then displays data once fetched, using "SWR" - a React Hook that NextJS recommends.
 
