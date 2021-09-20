@@ -11,7 +11,7 @@ const CourseCard = ({ imageURL, title, description, lessons, duration }) => {
             <Image src={imageURL}/>
             <CardDetails>
                 <Title>{title}</Title>
-                <Description>{description.substring(0, 80)}...</Description>
+                <Description>{description? description.substring(0, 80) : <p>loading...</p>}...</Description>
                 <CardFooter>
                     <Lessons><IconContainer><MenuBookIcon fontSize="small"/></IconContainer>{lessons} Lessons</Lessons>
                     <Duration><IconContainer></IconContainer><QueryBuilderIcon fontSize="small"/><IconContainer></IconContainer>{duration}</Duration>
